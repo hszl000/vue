@@ -115,7 +115,7 @@ export default {
             date: '2016-05-02',
             stareTime:'2015-05-05'
           },{
-            name: '彭于晏',
+            name: '尼浩',
             state:false,
             mirror:'中国镜像',
             menu:'超级套餐',
@@ -129,7 +129,7 @@ export default {
             date: '2016-05-02',
             stareTime:'2015-05-05'
           },{
-            name: '彭于晏',
+            name: '张星星',
             state:false,
             mirror:'河南镜像',
             menu:'超级套餐',
